@@ -22,7 +22,7 @@
         {
             "id": "did:web:aritrocoder.github.io:did-web-holder#did-communication",
             "type": "did-communication",
-            "serviceEndpoint": "http://localhost:8000",
+            "serviceEndpoint": "http://localhost:10000",
             "recipient_keys": [
                 "did:web:aritrocoder.github.io:did-web-holder#key-1"
             ],
